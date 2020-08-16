@@ -1,5 +1,5 @@
 def mario
-  phrase = 'It\'s-me, Mario!'
+  phrase = 'It\'s-a me, Mario!'
   puts phrase
 end
 
@@ -9,7 +9,7 @@ def toadstool
 end
 
 def link
-  warning = "It's Dangerous To Go Alone! Take This"
+  warning = "It's Dangerous To Go Alone! Take This."
   puts warning
 end
 
